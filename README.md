@@ -14,4 +14,4 @@ ID: 700728681
 Video link: https://drive.google.com/file/d/188IzXfHx0gPdvRaVEVzhJnSiDq_iy9SB/view?usp=share_link
 
 
-GitHub: https://github.com/vamsi-mekala/ml_assignment_4
+GitHub: https://github.com/kothakapuk/ML_Assignmet-4-700728681-
